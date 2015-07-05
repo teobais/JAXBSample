@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+	<smartphone>
+		<make>Samsung</make>
+		<model>Galaxy Ace</model>
+		<androidVersion>2.2</androidVersion>
+	</smartphone>
+	<smartphone>
+		<make>Motorola</make>
+		<model>Moto G 2014</model>
+		<androidVersion>5.0.1</androidVersion>
+	</smartphone>
+</smartphones>
